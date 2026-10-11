@@ -67,8 +67,8 @@ portfolio/
 │   ├── Mobile view.png
 │   ├── Projects section.png
 │   └── Skills section.png
-└── report/
-    └── Task01_Report.pdf
+└── Task01_Report.pdf
+
 ```
 
 ## Screenshots
