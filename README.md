@@ -21,7 +21,7 @@ The whole website is written in plain HTML5 and CSS3. No CSS frameworks, UI libr
 - Smooth scrolling between sections
 - Hero section with name, tagline, introduction, call to action button, and resume button
 - Profile photo with a rotating dashed ring and a terminal style info box
-- About section with a motivational statement, academic background, career interests, and professional summary
+- About section with a statement, academic background, career interests, and professional summary
 - Skill cards grouped by category and a moving marquee of the languages I know
 - Education cards with a short description for each degree or course
 - Project cards that lift on hover and show extra information, each with a GitHub button
@@ -121,6 +121,5 @@ No installation or build steps are needed.
 ## Author
 
 **Hassan Asad**
-BS Software Engineering, Virtual University of Pakistan
 
 GitHub: [HassanAsad118](https://github.com/HassanAsad118)
